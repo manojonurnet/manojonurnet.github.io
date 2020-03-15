@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.9cd8a3e1.chunk.css",
-    "main.js": "/portfolio/static/js/main.7a63e476.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.7a63e476.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.af0b07c5.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.af0b07c5.js.map",
-    "static/js/2.7e33d66a.chunk.js": "/portfolio/static/js/2.7e33d66a.chunk.js",
-    "static/js/2.7e33d66a.chunk.js.map": "/portfolio/static/js/2.7e33d66a.chunk.js.map",
-    "index.html": "/portfolio/index.html",
-    "precache-manifest.9532bbb456bd0699c236b56c4a7f1291.js": "/portfolio/precache-manifest.9532bbb456bd0699c236b56c4a7f1291.js",
-    "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.9cd8a3e1.chunk.css.map": "/portfolio/static/css/main.9cd8a3e1.chunk.css.map",
-    "static/js/2.7e33d66a.chunk.js.LICENSE.txt": "/portfolio/static/js/2.7e33d66a.chunk.js.LICENSE.txt",
-    "static/media/image.jpg": "/portfolio/static/media/image.89654d09.jpg"
+    "main.css": "/manojonurnet.github.io/static/css/main.9cd8a3e1.chunk.css",
+    "main.js": "/manojonurnet.github.io/static/js/main.98c282b6.chunk.js",
+    "main.js.map": "/manojonurnet.github.io/static/js/main.98c282b6.chunk.js.map",
+    "runtime-main.js": "/manojonurnet.github.io/static/js/runtime-main.099d3a98.js",
+    "runtime-main.js.map": "/manojonurnet.github.io/static/js/runtime-main.099d3a98.js.map",
+    "static/js/2.eda13234.chunk.js": "/manojonurnet.github.io/static/js/2.eda13234.chunk.js",
+    "static/js/2.eda13234.chunk.js.map": "/manojonurnet.github.io/static/js/2.eda13234.chunk.js.map",
+    "index.html": "/manojonurnet.github.io/index.html",
+    "precache-manifest.52c21818e248f488ba5c562c0ad5db1f.js": "/manojonurnet.github.io/precache-manifest.52c21818e248f488ba5c562c0ad5db1f.js",
+    "service-worker.js": "/manojonurnet.github.io/service-worker.js",
+    "static/css/main.9cd8a3e1.chunk.css.map": "/manojonurnet.github.io/static/css/main.9cd8a3e1.chunk.css.map",
+    "static/js/2.eda13234.chunk.js.LICENSE.txt": "/manojonurnet.github.io/static/js/2.eda13234.chunk.js.LICENSE.txt",
+    "static/media/image.jpg": "/manojonurnet.github.io/static/media/image.89654d09.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.af0b07c5.js",
-    "static/js/2.7e33d66a.chunk.js",
+    "static/js/runtime-main.099d3a98.js",
+    "static/js/2.eda13234.chunk.js",
     "static/css/main.9cd8a3e1.chunk.css",
-    "static/js/main.7a63e476.chunk.js"
+    "static/js/main.98c282b6.chunk.js"
   ]
 }
